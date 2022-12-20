@@ -52,6 +52,9 @@ const Navbar = () => {
                     <p className='mb-6 font-bold text-gray-700 border border-gray-300 px-4 py-3 hover:text-white hover:bg-sky-400 cursor-pointer rounded-full duration-300'>Views</p>
                     <p className='mb-6 font-bold text-gray-700 border border-gray-300 px-4 py-3 hover:text-white hover:bg-sky-400 cursor-pointer rounded-full duration-300'>Book</p>
                 </div>
+                <div className='mb-6 py-2 flex justify-center items-center hover:scale-105 duration-300'>
+                    <button className='bg-sky-500 text-white w-[90%] py-1 rounded-2xl'>Account</button>
+                </div>
                 <div className='flex justify-between p-4 text-sky-500'>
                     <InstagramIcon className='hover:text-sky-600 cursor-pointer hover:bg-sky-200 rounded-full'/>
                     <YouTubeIcon className='hover:text-sky-600 cursor-pointer hover:bg-sky-200 rounded-full'/>

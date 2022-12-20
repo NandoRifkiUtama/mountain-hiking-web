@@ -8,7 +8,7 @@ const Book = () => {
     <div className='max-w-[1250px] mx-auto px-4 py-12 flex flex-cols justify-center item-center'>
     <div className='grid md:grid-cols-2'>
     <div className='flex flex-col text-center md:text-left'>
-            <h1 className='text-2xl font-bold text-gray-700 md:text-4xl'>Create Your Own Story</h1>
+            <h1 className='text-2xl font-bold text-gray-700 md:text-4xl'>Create Your Own Adventure</h1>
             <p className='text-md mt-2 md:mt-4 '>Hiking is walking in nature as a recreational activity. Especially among those with sedentary occupations, hiking is a natural exercise that promotes physical fitness, is economical and convenient, and requires no special equipment. Because hikers can walk as far as they want, there is no physical strain unless they walk among hills or mountains.</p>
             <div className='flex items-center justify-center md:justify-start mt-4'>
                 <div className='flex justify-center item-center mr-8'>
